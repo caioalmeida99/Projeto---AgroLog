@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2053" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,11 +29,6 @@
         <mxCell id="nFYtt2vM3JNmnWMnt2Ol-55" connectable="0" parent="nFYtt2vM3JNmnWMnt2Ol-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1" vertex="1">
           <mxGeometry relative="1" x="0.028" y="-3" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WCMdk5GkLfo_OCyggDOI-0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nFYtt2vM3JNmnWMnt2Ol-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="WCMdk5GkLfo_OCyggDOI-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="579.9999999999995" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nFYtt2vM3JNmnWMnt2Ol-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PROPRIEDADE" vertex="1">
@@ -206,9 +201,6 @@
         </mxCell>
         <mxCell id="nFYtt2vM3JNmnWMnt2Ol-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="OBSERVAÇÃO" vertex="1">
           <mxGeometry height="40" width="110" x="65" y="660" as="geometry" />
-        </mxCell>
-        <mxCell id="WCMdk5GkLfo_OCyggDOI-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;" value="NOME" vertex="1">
-          <mxGeometry height="40" width="90" x="603" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
